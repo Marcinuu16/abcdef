@@ -1,3 +1,4 @@
 class owoc{
-    
+    //banan
+    //jablko
 }
